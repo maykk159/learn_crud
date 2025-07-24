@@ -1,10 +1,21 @@
-Learn CRUD
+# Employee Admin Portal
 
-This project was created for the purpose of learning CRUD operations.
-It was developed by following the [Name of the Tutorial/Series].
+This project is a simple CRUD (Create, Read, Update, Delete) application developed with ASP.NET, following a tutorial video.
 
-Technologies Used
+## Features
 
-- ASP.NET Core / C#
-- Entity Framework
+- Add, edit, and delete employees
+- SQL Server database integration
+- Data operations with Entity Framework
+
+## Technologies Used
+
+- ASP.NET Core MVC
+- C#
+- Entity Framework Core
 - SQL Server
+
+## Purpose
+
+This project was created purely for learning purposes.  
+Most of the code was written while following a tutorial, and improvements may be made over time.
